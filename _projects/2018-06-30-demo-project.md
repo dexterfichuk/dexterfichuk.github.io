@@ -1,11 +1,11 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Medical Image Segmentation'
+subtitle: 'Segmentating Nuclei in Cells'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/nuclei.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/nuclei2.jpg)
 
 ## Demo content
 
