@@ -1,11 +1,11 @@
 ---
-title: 'Medical Image Segmentation'
-subtitle: 'Segmentating Nuclei in Cells'
-date: 2018-06-30 00:00:00
-featured_image: '/images/demo/joel-filipe-193766-unsplash.jpg'
+title: 'Symmetric Autoencoders for Image Restoration'
+subtitle: 'Filling in Cutout and Inpainting'
+date: 2019-01-15 00:00:00
+featured_image: '/images/demo/touann-gatouillat-vergos-1294702-unsplash.jpg'
 ---
 
-![](/images/nuclei2.jpg)
+![](/images/inpainting/example.jpg)
 
 ## Demo content
 
