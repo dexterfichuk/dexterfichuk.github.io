@@ -18,7 +18,7 @@ menu_settings:
 footer_settings:
   logo_image:
   logo_width: 200
-  footer_tagline: Teaching Machines to ❤
+  footer_tagline: Garbage in, garbage out
 
 grid_settings:
   overlay_opacity: 0.8
